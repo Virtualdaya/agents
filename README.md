@@ -1,6 +1,6 @@
 #  RAG-based PDF Question Answering Agent
 
-This project is a **Retrieval-Augmented Generation (RAG)** system that enables users to interact with the contents of PDF documents through natural language queries. The system uses **LangGraph**, **LangChain**, and **Google Generative AI** to perform source-aware document retrieval and intelligent response generation.
+This project is a **Retrieval-Augmented Generation (RAG)** system that enables users to interact with the contents of PDF documents through natural language queries. The system uses **LangGraph**, **LangChain**,**sentence-transformers/all-MiniLM-L6-v2** and **Google Generative AI** to perform source-aware document retrieval and intelligent response generation.
 
 ---
 
